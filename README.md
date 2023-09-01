@@ -1,4 +1,4 @@
-Deployment Setup for JavaScript Web Applications
+# Deployment Setup for JavaScript Web Applications
 
 We will be emulating a server instance using Multipass for Ubuntu, you can do this in any secure sandbox of your liking. This can be Virtual Machines Instances, Cloud Instances, or Physical Machines you have at your access.
 
